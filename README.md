@@ -1,6 +1,6 @@
 # CasCode_Internship
 
-This is my first task as a UI/UX intern at CasCode.
+This is my task as a UI/UX intern at CasCode.
 
 
 TASK 1: Create a prototype for any user flow.
@@ -11,7 +11,8 @@ https://www.figma.com/proto/XSH8SGyf7fez2BMVWMAEdw/Foodies?node-id=1-12&scaling=
 
 
 
-TASK 2: Create a prototype for any user flow.
+
+TASK 2: Design a landing page for any website.
 -> I designed a landing page for a Job Searching Platform named "Doer" that helped to search various job.
 
 -> Below here is the link for the prototype:
