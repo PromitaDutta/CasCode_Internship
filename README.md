@@ -17,3 +17,12 @@ TASK 2: Design a landing page for any website.
 
 -> Below here is the link for the prototype:
 https://www.figma.com/proto/NxnQhii5B6YwT9uO8qOxbS/Promita-Dutta---Job-Search--Landing-Page?type=design&node-id=2-3&scaling=min-zoom&page-id=0%3A1
+
+
+
+
+TASK 3: Dashboard Design for any website.
+-> I have designed a selling website dashboard named "**Circle**".
+
+-> Below here is the link for the prototype:
+https://www.figma.com/proto/s145jNP9h979fbeejPtuel/Dashboard?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1
