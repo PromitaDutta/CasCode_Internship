@@ -30,8 +30,8 @@ https://www.figma.com/proto/s145jNP9h979fbeejPtuel/Dashboard?type=design&node-id
 
 
 
-TASK 4: Dashboard Design for any website.
--> I have designed a selling website dashboard named "**Circle**".
+TASK 4: Design a Social media App.
+-> I have created a fully functioning Social media App design named "**Chit - Chat**".
 
 -> Below here is the link for the prototype:
 https://www.figma.com/proto/PWiGTCyaQp7LneRX4bcqj3/Chit-Chat?type=design&node-id=6-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A2
