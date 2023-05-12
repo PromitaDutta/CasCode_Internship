@@ -26,3 +26,12 @@ TASK 3: Dashboard Design for any website.
 
 -> Below here is the link for the prototype:
 https://www.figma.com/proto/s145jNP9h979fbeejPtuel/Dashboard?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1
+
+
+
+
+TASK 4: Dashboard Design for any website.
+-> I have designed a selling website dashboard named "**Circle**".
+
+-> Below here is the link for the prototype:
+https://www.figma.com/proto/PWiGTCyaQp7LneRX4bcqj3/Chit-Chat?type=design&node-id=6-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A2
